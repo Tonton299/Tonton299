@@ -1,4 +1,4 @@
-<h2 align="left">Olá, eu sou Walliston tenho 15 anos, eu sou gamer e faço parte do grupo bit</h2>
+<h2 align="left">Olá, eu sou Walliston tenho 16 anos, eu sou gamer e faço parte do grupo bit</h2>
 
 ###
 
